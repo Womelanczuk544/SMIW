@@ -1,0 +1,60 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "D:/smiw/Wojti_na_bicie/include",
+                "D:/smiw/Wojti_na_bicie/src",
+                "D:/smiw/Wojti_na_bicie/.pio/libdeps/uno/LiquidCrystal_I2C",
+                "C:/Users/wojte/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                "D:/smiw/Wojti_na_bicie/.pio/libdeps/uno/FastLED/src",
+                "C:/Users/wojte/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                "C:/Users/wojte/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                "C:/Users/wojte/.platformio/packages/framework-arduino-avr/cores/arduino",
+                "C:/Users/wojte/.platformio/packages/framework-arduino-avr/variants/standard",
+                "C:/Users/wojte/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                "C:/Users/wojte/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "D:/smiw/Wojti_na_bicie/include",
+                    "D:/smiw/Wojti_na_bicie/src",
+                    "D:/smiw/Wojti_na_bicie/.pio/libdeps/uno/LiquidCrystal_I2C",
+                    "C:/Users/wojte/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                    "D:/smiw/Wojti_na_bicie/.pio/libdeps/uno/FastLED/src",
+                    "C:/Users/wojte/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                    "C:/Users/wojte/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                    "C:/Users/wojte/.platformio/packages/framework-arduino-avr/cores/arduino",
+                    "C:/Users/wojte/.platformio/packages/framework-arduino-avr/variants/standard",
+                    "C:/Users/wojte/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                    "C:/Users/wojte/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=60105",
+                "ARDUINO_AVR_UNO",
+                "F_CPU=16000000L",
+                "ARDUINO_ARCH_AVR",
+                "ARDUINO=10808",
+                "__AVR_ATmega328P__",
+                ""
+            ],
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "compilerPath": "C:/Users/wojte/.platformio/packages/toolchain-atmelavr/bin/avr-gcc.exe",
+            "compilerArgs": [
+                "-mmcu=atmega328p",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
